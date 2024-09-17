@@ -6,7 +6,7 @@ package java.studentlist;
 
 /**
  *
- * @author saddam hussein
+ * @author
  */
 public class StudentList {
 
