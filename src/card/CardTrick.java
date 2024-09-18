@@ -54,6 +54,11 @@ public class CardTrick {
         {
             System.out.println("the card is NOT in the magic hand");
         }
+        Card lCard = new Card();
+        lCard.setValue(2);
+        lCard.setSuit("Clubs");
+        System.out.println("Luck card: " + lCard.getValue() + " of " + lCard.getSuit());
+        
     }
 
 }
